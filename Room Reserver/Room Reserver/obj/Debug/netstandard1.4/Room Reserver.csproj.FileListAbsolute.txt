@@ -1,0 +1,3 @@
+C:\Users\Scott Little\OneDrive - Seattle University\HackSU2017\Room Reserver\Room Reserver\bin\Debug\netstandard1.4\Room Reserver.deps.json
+C:\Users\Scott Little\OneDrive - Seattle University\HackSU2017\Room Reserver\Room Reserver\obj\Debug\netstandard1.4\Room Reserver.csprojResolveAssemblyReference.cache
+C:\Users\Scott Little\OneDrive - Seattle University\HackSU2017\Room Reserver\Room Reserver\obj\Debug\netstandard1.4\Room Reserver.AssemblyInfo.cs
